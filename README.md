@@ -13,7 +13,6 @@ Tenho interesse principalmente em **bancos de dados, desenvolvimento de software
 * C
 * SQL
 * Git e GitHub
-* CSS
 * Excel
 
 ## Objetivo
